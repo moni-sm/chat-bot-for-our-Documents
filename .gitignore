@@ -17,4 +17,16 @@ node_modules/
 Thumbs.db
 
 
+# Ignore virtual environments
+chatbot-env/
+.env
+__pycache__/
+*.pyc
+*.pyd
+*.dll
+*.so
+*.bin
+
+# Ignore SQLite DB (optional, if auto-generated)
+*.sqlite
 
