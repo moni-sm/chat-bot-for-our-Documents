@@ -1,0 +1,20 @@
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore environment variables
+.env
+
+# Node dependencies (if you're using Node.js for chatbot frontend/backend)
+node_modules/
+
+# VSCode settings
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+
+
