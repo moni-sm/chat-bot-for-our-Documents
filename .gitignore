@@ -5,6 +5,13 @@ __pycache__/
 
 # Ignore environment variables
 .env
+*.sqlite
+
+__pycache__/
+*.pyc
+*.pyo
+chatbot-env/
+.env
 
 # Node dependencies (if you're using Node.js for chatbot frontend/backend)
 node_modules/
