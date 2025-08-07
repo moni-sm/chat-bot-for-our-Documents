@@ -110,4 +110,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 A beginner-friendly AI-powered document Q&A app to help users query their own files using NLP and open-source models.
 
-👉 [Follow me on LinkedIn](https://www.linkedin.com/in/monika-sm/) 🌟  
+👉 [Follow me on LinkedIn](https://www.linkedin.com/in/monika--sm/) 🌟  
