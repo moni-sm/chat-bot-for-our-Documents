@@ -19,7 +19,7 @@ A Streamlit-based AI app that lets you upload `.pdf`, `.docx`, `.pptx`, and `.tx
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/chatbot-docqa.git
+git clone (https://github.com/moni-sm/chat-bot-for-our-Documents.git)
 cd chatbot-docqa
 
 # Create a virtual environment (conda or venv)
