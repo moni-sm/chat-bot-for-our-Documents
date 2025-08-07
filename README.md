@@ -15,12 +15,6 @@ A Streamlit-based AI app that lets you upload `.pdf`, `.docx`, `.pptx`, and `.tx
 
 ---
 
-## 🖼️ Demo Screenshot
-
-![screenshot](screenshot.png) <!-- Replace with your image if available -->
-
----
-
 ## 🔧 Installation
 
 ```bash
