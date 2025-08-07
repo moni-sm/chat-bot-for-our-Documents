@@ -2,7 +2,7 @@
 
 A Streamlit-based AI app that lets you upload `.pdf`, `.docx`, `.pptx`, and `.txt` files and **ask questions** about the content. Built using **LangChain**, **FAISS**, **HuggingFace Transformers**, and **Streamlit**.
 
-🔗 **Live Demo**: [Click here to try the app]((https://chat-bot-for-our-documents-acsvjmd38uqdnue9ztp7rd.streamlit.app/))
+🔗 **Live Demo**: [Click here to try the app](https://chat-bot-for-our-documents-acsvjmd38uqdnue9ztp7rd.streamlit.app/)
 ---
 
 ## 🚀 Features
